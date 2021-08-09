@@ -37,10 +37,10 @@
     <img src="./readme-generator-logo.png" alt="Logo" width="363" height=auto>
   </a>
 
-  <h3 align="center">Caption King</h3>
+  <h3 align="center">Readme.md Generator</h3>
 
   <p align="center">
-    Backend for an e-commerce store.
+     A command line application to generate readme.md!
     <br />
     <a href="https://github.com/tbegush/readme-generator"><strong>Explore the docs »</strong></a>
     <br />
