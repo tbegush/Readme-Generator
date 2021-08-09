@@ -34,7 +34,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/tbegush/readme-generator">
-    <img src="./assets/images/readme-generator-logo.png" alt="Logo" width="363" height=auto>
+    <img src="./readme-generator-logo.png" alt="Logo" width="363" height=auto>
   </a>
 
   <h3 align="center">Caption King</h3>
